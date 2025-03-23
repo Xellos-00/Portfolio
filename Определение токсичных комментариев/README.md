@@ -1,6 +1,6 @@
 # Определение токсичных комментариев для интернет-магазина
 ***
-[html]() [ipynb]()
+[html](https://github.com/Xellos-00/Portfolio/blob/main/Определение%20токсичных%20комментариев/p_13.html) [ipynb](https://github.com/Xellos-00/Portfolio/blob/main/Определение%20токсичных%20комментариев/p_13.ipynb)
 ***
 ## Описание проекта
 
