@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей с пробегом
 ***
-[html]() [ipynb]()
+[html](https://github.com/Xellos-00/Portfolio/blob/main/Прогноз%20цен%20на%20автомобили%20с%20пробегом/p_11.html) [ipynb](https://github.com/Xellos-00/Portfolio/blob/main/Прогноз%20цен%20на%20автомобили%20с%20пробегом/p_11.ipynb)
 ***
 ## Описание проекта
 
